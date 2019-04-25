@@ -1,0 +1,13 @@
+O que são variaveis?
+pode mudar de valor
+
+tipos de variaveis
+
+int, float, string, boolean
+
+Regras: 
+- nao iniciar com numeros.
+- nao utilizar caracteres especiais.
+- nao utilizar palavras reservadas.
+
+O JS é case sensitive
