@@ -10,4 +10,4 @@ Regras:
 - nao utilizar caracteres especiais.
 - nao utilizar palavras reservadas.
 
-O JS é case sensitive
+O JS é case sensitive.
