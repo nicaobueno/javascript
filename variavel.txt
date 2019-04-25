@@ -11,3 +11,6 @@ Regras:
 - nao utilizar palavras reservadas.
 
 O JS é case sensitive.
+
+Criando novas etapas:
+- Teste de versão
