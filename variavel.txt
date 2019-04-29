@@ -10,7 +10,11 @@ Regras:
 - nao utilizar caracteres especiais.
 - nao utilizar palavras reservadas.
 
+<<<<<<< HEAD
 O JS é case sensitive.
 
 Criando novas etapas:
 - Teste de versão
+=======
+O JS é case sensitive
+>>>>>>> c47da8d5a5466c4569ccf3608a6f4e29a8fb3bf0

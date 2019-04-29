@@ -25,3 +25,4 @@ lista = lista.filter(f => f != 2);
 console.log(lista);
 
 
+
